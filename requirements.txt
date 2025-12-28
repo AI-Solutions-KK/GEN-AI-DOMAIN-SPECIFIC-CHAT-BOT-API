@@ -1,0 +1,30 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+python-multipart
+
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-chroma
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+
+# Document processing
+pypdf
+pdfplumber
+python-docx
+openpyxl
+pandas
+unstructured
+python-magic-bin
+
+# Embeddings & Vector DB
+sentence-transformers
+chromadb
+tiktoken
+
+# Additional utilities
+pillow
