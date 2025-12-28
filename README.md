@@ -2,6 +2,14 @@
 
 Production-grade RAG API for intelligent document querying. Upload PDFs, spreadsheets, Word documents, or text files and ask natural language questions. Designed for chatbot integration and internal knowledge base systems.
 
+---
+![Project snap shots](snap_1.png)
+
+![Project snap shots](snap_2.png)
+
+![Project snap shots](snap_3.png)
+
+---
 ## Overview
 
 This API transforms unstructured documents into a queryable knowledge base using Retrieval-Augmented Generation (RAG). All answers are strictly grounded in your uploaded documents, preventing hallucinations and ensuring factual accuracy.
